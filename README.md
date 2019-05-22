@@ -1,3 +1,5 @@
+My favourite research papers can be found [here](https://github.com/mayank31398/Papers-I-have-read).
+
 # Quantum computing
 1. Quantum computation and quantum information - Michael A. Nielsen, Isaac L. Chuang
 1. Quantum computing (a gentle introduction) - Eleanor Rieffel, Wolfgang Polak
