@@ -47,6 +47,9 @@ My favourite research papers can be found [here](https://github.com/mayank31398/
 1. Introduction to algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 1. Data structures and algorithms in Java - Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
 
+# Graph theory
+1. Introduction to graph theory - Robin Wilson
+
 # Digital logics
 1. Digital design (with an introduction to the Verilog HDL) - M. Morris Mano, Michael D. Ciletti
 
