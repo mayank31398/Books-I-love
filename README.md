@@ -1,5 +1,23 @@
 My favourite research papers can be found [here](https://github.com/mayank31398/Papers-I-have-read).
 
+### Table of contents
+* [Calculus](#Calculus)
+* [Computer architecture](#Computer-architecture)
+* [Classical AI](#Classical-AI)
+* [Data structures and algorithms](#Data-structures-and-algorithms)
+* [Deep learning](#Deep-learning)
+* [Digital logics](#Digital-logics)
+* [Graph theory](#Graph-theory)
+* [Information theory](#Information-theory)
+* [Linear algebra](#Linear-algebra)
+* [Measure theory](#Measure-theory)
+* [Natural language processing](#Natural-language-processing)
+* [Optimization theory](#Optimization-theory)
+* [Probability and stochastic processes](#Probability-and-stochastic-processes)
+* [Quantum computing](#Quantum-computing)
+* [Reinforcement learning](#Reinforcement-learning)
+* [Signal processing](#Signal-processing)
+
 # Calculus
 1. Thomas' calculus - George B. Thomas Jr., Maurice D. Weir
 1. Calculus of variations - I. M. Gelfand, S. V. Fomin
